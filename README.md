@@ -1,4 +1,4 @@
-# star_wars_sna
+# Star Wars SNA
 SNA for Star Wars Episode 4 and 7
 
 Gave a talk for IYKRA x R Ladies Jakarta collaboration (15 April 2021) on the topic of using SNA on Star Wars dataset. I adjusted scripts from the following two:
