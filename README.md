@@ -7,3 +7,5 @@ Gave a talk for IYKRA x R Ladies Jakarta collaboration (15 April 2021) on the to
 
 The dataset for episode 7 was transformed from .pdf to .txt, and it was a bit messy, so needed some cleaning to enable using the script made by Dr. Gimenez. The dataset for episode 4 was also a bit different from the dataset used by Dr. Gimenez, so adjusted as well. Additional edit using photoshop was also done.
 
+For easeness of viewing, I also adjusted the character list to the ones most popular.
+
